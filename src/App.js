@@ -1,8 +1,8 @@
 
 import './App.css';
-import Address from './Components/Address';
-import FullName from './Components/FullName';
-import ProfilePhoto from './Components/ProfilePhoto';
+import Address from './Components/profile/Address';
+import FullName from './Components/profile/FullName';
+import ProfilePhoto from './Components/profile/ProfilePhoto';
 
 function App() {
   return (
